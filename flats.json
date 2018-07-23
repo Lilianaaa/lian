@@ -1,36 +1,36 @@
 [
   {
     "id": 145,
-    "name": "Tangadan Falls at San Gabriel",
-    "imageUrl": "http://1.bp.blogspot.com/-mdOa_-XRusE/VrNRIoKJolI/AAAAAAAAF30/2uFJuCBymRI/s1600/C360_2016-02-01-16-41-23-565.jpg",
-    "price": 200,
+    "name": "Shrine of Our Lady of Namacpacan Church at Luna, La Union",
+    "imageUrl": "http://www.pinaytraveljunkie.com/wp-content/uploads/2011/10/luna1.jpg",
+    "price": 000,
     "priceCurrency": "PHP",
     "lat": 16.6436,
     "lng": 120.4488
   },
   {
     "id": 148,
-    "name": "Tuddingan Falls at Naguilian",
-    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
-    "price": 249,
+    "name": "Occalong Falls at Luna, La Union",
+    "imageUrl": "https://lunalaunion.files.wordpress.com/2012/04/occalongfalls-2.jpg",
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.5752,
     "lng": 120.4174
   },
   {
     "id": 201,
-    "name": "Sebay Surf Central at San Juan",
-    "imageUrl": "https://aizaizbeybi.files.wordpress.com/2016/04/dsc_0327a.jpg?w=748",
-    "price": 169,
+    "name": "Baluarte Watch Tower in Luna, La Union",
+    "imageUrl": "https://steemitimages.com/DQmbDvaJHKRaukKxxs1WMDQGwQV2q2QupDWpWf5uoE5ZEp3/SAM_1827.JPG",
+    "price": 000,
     "priceCurrency": "PHP",
     "lat": 16.6570,
     "lng": 120.3209
   },
   {
     "id": 205,
-    "name": "Baluarte Watch Tower at Luna",
-    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
-    "price": 234,
+    "name": "Bahay na Bato in Luna, La Union",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_02.jpg",
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.8568,
     "lng": 120.3729
@@ -46,8 +46,8 @@
   },
   {
     "id": 211,
-    "name": "Camp Avenue at San Juan",
-    "imageUrl": "https://q-xx.bstatic.com/images/hotel/max1024x768/143/143858602.jpg",
+    "name": "Sebay Surfing Area at San Juan, La Union",
+    "imageUrl": "http://sebaysurfcentral.com/wp-content/uploads/2015/06/MYX9420-1024x660.jpg",
     "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.6956,
